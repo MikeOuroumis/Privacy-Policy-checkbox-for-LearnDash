@@ -15,4 +15,4 @@ I use this snippet in LearnDash registration page.
 7. Replace the text with your text
 8. Update the page
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![checkbox animation](https://raw.githubusercontent.com/MikeOuroumis/Privacy-Policy-checkbox-for-LearnDash/main/Animation%20(1).gif)
