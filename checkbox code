@@ -1,7 +1,7 @@
-<input id="check-box" type="checkbox" />"Your Text" <a href="https://calisthenicsassociation.org/privacy-policy/">Privacy Policy</a> "Your Text"
-<div id="registration-form" style="display: none;">[ld_registration]
+<input id="check-box" type="checkbox" onclick = "checkbox()">Αποδέχομαι τους <a href="https://calisthenicsassociation.org/privacy-policy/">Όρους Χρήσης</a> και θέλω να προχωρήσω στην εγγραφή
 
-<span style="text-decoration: underline; background-color: #ffff00;"><span style="color: #ed1c24; text-decoration: underline;">*<span style="color: #000000; text-decoration: underline;">Τα στοιχεία που δηλώνετε θα αναγράφονται στην πιστοποίησή σας. Γράψτε τα στοιχεία σας όπως αυτά αναγράφονται στην ταυτότητά σας.</span></span></span></div>
+<div id="registration-form" style = "display: none">[ld_registration]
+<br></div>
 <script>
 function checkbox(){
   if(document.getElementById("check-box").checked == true)
@@ -13,3 +13,4 @@ function checkbox(){
   }
 }
 </script>
+
