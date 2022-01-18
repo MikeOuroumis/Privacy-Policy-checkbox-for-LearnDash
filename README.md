@@ -2,6 +2,8 @@
 
 An easy and quick solution for Privacy Policy acceptance checkbox in LearnDash.
 
+![checkbox animation](https://raw.githubusercontent.com/MikeOuroumis/Privacy-Policy-checkbox-for-LearnDash/main/Animation%20(1).gif)
+
 I use this snippet in LearnDash registration page. 
 
 ## How to integrate the code in LearnDash Registration Page
@@ -14,5 +16,3 @@ I use this snippet in LearnDash registration page.
 6. Replace my [ld_registration] with your [ld_registration] by cut and paste
 7. Replace the text with your text
 8. Update the page
-
-![checkbox animation](https://raw.githubusercontent.com/MikeOuroumis/Privacy-Policy-checkbox-for-LearnDash/main/Animation%20(1).gif)
