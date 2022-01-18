@@ -14,3 +14,5 @@ I use this snippet in LearnDash registration page.
 6. Replace my [ld_registration] with your [ld_registration] by cut and paste
 7. Replace the text with your text
 8. Update the page
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
